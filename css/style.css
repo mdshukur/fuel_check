@@ -24,7 +24,7 @@ body {
 
 }
 header{
-    background: linear-gradient(0deg, rgba(0, 0, 0, 0.536), rgba(0, 0, 0, 0.536)), url(../images/bg.webp);
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.445), rgba(0, 0, 0, 0.445)), url(../images/bg.jpg);
     background-size: cover;
     background-position: center center;
      height: 100vh;
@@ -103,9 +103,10 @@ margin:0 auto;}
    color:#fff;
 }
 .hero_details h3{
-    font-size: 30px;
+    font-size: 35px;
     font-weight: 600;
     color:#fff;
+    font-style: italic;
 }
 /* about css */
 .display-1 {
@@ -174,7 +175,7 @@ margin:0 auto;}
 
 /* product css */
 .product{
-  background: linear-gradient(0deg, rgba(0, 0, 0, 0.300), rgba(0, 0, 0, 0.300)), url(../images/pic_2.jpg);
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.300), rgba(0, 0, 0, 0.300)), url(../images/product.jpg);
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
